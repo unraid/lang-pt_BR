@@ -1,2 +1,2 @@
-# lang_pt-BR
+# lang-pt_BR
 Brazilian Portuguese Language Unraid Repo
