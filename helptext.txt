@@ -36,7 +36,7 @@ I/O do dispositivo. Os dados em falta devido a erros de leitura irrecuperáveis 
 da paridade (e nós tentamos escrever estes dados de volta para o(s) sector(es) que falhou(s)). Qualquer erro de gravação
  rrecuperável resulta em *desactivar* o disco..
 
-**FS*** indica o sistema de ficheiros detectado na partição 1 do dispositivo.
+**FS** indica o sistema de ficheiros detectado na partição 1 do dispositivo.
 
 A coluna **View** contém um ícone de pasta indicando que o dispositivo está *montado*. Clique no ícone para
 navegar no sistema de ficheiros.
