@@ -25,6 +25,20 @@ All file names are in lowercase and should be included in the repository to make
 
 Removing a particular file, means no translations will be available for that section and the GUI will display text in original English.
 
+### Translated files
+
+The files below have already been translated, but can be revised:
+
+* translations.txt
+* dashboard.txt
+* shares.txt
+* users.txt
+* plugins.txt
+* docker.txt
+* javascript.txt
+* scripts.txt
+* javascript.ca.txt
+
 ### TRANSLATIONS
 
 Each text file contains regular text strings stored in UTF-8 format with linux line-endings.
