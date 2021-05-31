@@ -104,3 +104,15 @@ Virtual Machines=Máquinas Virtuais
 
 ; New entries - 2021-03-14
 Temp=Temperatura
+
+; New entries (10) - 2021-05-31
+%s ago=
+10 s=
+30 s=
+1 m=
+2 m=
+Click to toggle CPU chart=
+Network traffic=
+Only PNG images are allowed=Only PNG images are allowed!
+Select time frame=
+SMART health-check failed=
