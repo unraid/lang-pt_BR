@@ -30,3 +30,13 @@ View Release Notes=Ver Notas de Versão
 
 ; New entries - 2021-03-14
 No plugins installed=Nenhum *plugin* instalado
+
+; New entries (8) - 2021-05-31
+Checking connectivty=
+checking=
+Delete Plugin=
+No response, aborting=
+Plugin File Install Errors=
+Plugin History=
+Remove Plugin=
+Update Plugin=
