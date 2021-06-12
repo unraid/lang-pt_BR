@@ -136,3 +136,6 @@ Start Container After Install=Iniciar contêiner depois da instalação
 
 ; New entries - 2021-03-14
 Total size=Tamanho total
+
+; New entries (1) - 2021-06-12
+Crypto Currency=
