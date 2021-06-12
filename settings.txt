@@ -704,3 +704,7 @@ View Local Config=
 View Peer Config=
 VPN tunneled access=
 WireGuard Configuration=
+
+; New entries (2) - 2021-06-12
+Manage password=
+Restore default image=
