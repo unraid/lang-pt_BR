@@ -315,3 +315,8 @@ Convert to raid1c4 mode=
 Flash device is set as public share=
 Please change share SMB security=
 See %s Settings=
+
+; New entries (3) - 2021-07-11
+enter disk index and device name as applicable to your controller=
+next device=
+previous device=
