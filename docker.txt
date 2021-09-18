@@ -36,8 +36,6 @@ DNS=*DNS*
 Docker Containers=Contêineres do *Docker*
 Docker Hub URL=*URL* do *Docker Hub*
 Docker Service failed to start=Não foi possível iniciar o Serviço do *Docker*
-Donation Link=Link de doação
-Donation Text=Texto de doação
 Downloaders=Gerenciador de transferências
 Edit Configuration=Editar Configuração
 Exited=Terminado
@@ -58,7 +56,6 @@ Icon URL=*URL* do ícone
 Image ID=ID da imagem
 Key=Licença
 Label=Identificação
-latest=último
 Management=Gestão
 MediaApp=App de mídia
 MediaServer=Servidor de mídia
@@ -109,7 +106,6 @@ Successfully removed container=contêiner removido com sucesso
 Successfully removed orphan image=Imagem orfã removida com sucesso
 Successfully stopped container=contêiner parado com sucesso
 Support Thread=Tópico de Suporte no Fórum
-Template repositories=Repositórios de modelos
 Template URL=*URL* de modelos
 Template=Modelo
 The command failed=O comando falhou
@@ -132,10 +128,13 @@ Writable=Gravável
 ; New entries - 2021-03-14
 Drivers=*Drivers*
 Reset sorting=Reinicializar ordenação
-Start Container After Install=Iniciar contêiner depois da instalação
 
 ; New entries - 2021-03-14
 Total size=Tamanho total
 
 ; New entries (1) - 2021-06-12
 Crypto Currency=
+
+; New entries (2) - 2021-09-18
+Additional Requirements=
+None Listed=
