@@ -12,3 +12,5 @@ Install Application=Instalar Aplicação
 Install Applications=Instalar Aplicações
 Something really wrong went on during %s=Algo muito errado aconteceu durante %s
 Are you sure you want to delete %s applications from the previously installed list=Tem a certeza que deseja apagar %s aplicações da lista previamente instalada
+
+; Note: September 19, 2022 - 0 missing translations
