@@ -21,7 +21,6 @@ Name Descending=Nome Descendente
 Downloads=Downloads
 Date Added=data adicionada
 Number Of Apps=Número de aplicativos
-
 ; Initial disclaimer translations
 Disclaimer=Aviso legal
 All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Todas as aplicações aqui listadas são adições de terceiros ao Unraid Nem os autores das Aplicações Comunitárias (CA) nem a Limetech dão qualquer garantia quanto à idoneidade de qualquer aplicação aqui listada
@@ -86,7 +85,6 @@ Search Apps=Pesquisar aplicativos
 Registry=Registro
 Details=Detalhes
 Added=Adicionado(a)
-
 ; Install Plugin title of openbox
 Install Plugin=Instalar plugin
 Update Plugin=Atualizar plugin
@@ -148,7 +146,10 @@ This usually means your flash drive is corrupted or has dropped offline The rest
 Fatal Docker Image Error=Erro fatal na imagem do Docker
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=A sua imagem ou pasta docker é só de leitura ou está completamente cheia Os problemas resultarão por causa disso Você deve criar uma nova postagem nos fóruns do Unraid e incluir seus diagnósticos
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=Este modelo estáconfigurado para usar uma rede personalizada Poderáter de ajustar a rede ou o endereço IP etc para corresponder ao seu sistema
+This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=Uma ou mais portas usadas por esta aplicação já estão a ser usadas por outro serviço ou aplicação a correr no seu servidor Teráde ajustar as portas de acolhimento de acordo com o modelo
+Not Enough Memory=
+Community Applications (and Unraid OS) have a minimum required installed memory of 4G CA cannot run without those mimimums being met=
 
 ; CA Sections Keep the length reasonable
 Home=Início
@@ -161,7 +162,7 @@ Recently Added=Adicionado recentemente
 Random Apps=Apps aleatórias
 Top New Installs=Top Novas Instalações
 Top Trending Apps=Principais aplicativos em alta
-Aplicativos em destaque=
+Spotlight Apps=
 All Apps=Todas as Apps
 Statistics=Estatísticas
 Credits=Créditos
@@ -310,12 +311,11 @@ Current Version=Versão Atual
 Min OS=Versão Mínima do SO
 Max OS=Versão Máxima do SO
 Total Downloads=Total de Transferências
+Popularity=
 Licence=Licença
 Ranked #%s=Posição #%s
-
 ; as in Trending up or down arrow
 Trending %s=Tendência %s
-
 ; as in As of some date
 As of %s=(Há data de %s)
 Play Video=Reproduzir vídeo
@@ -336,17 +336,14 @@ Note not all authors keep up to date on change logs=Notar que nem todos os autor
 Note not all maintainers keep up to date on change logs=Notar que nem todos os maintainers mantém os registos de alterações atualizados
 Last Update=Última atualização
 Note All statistics are only gathered every 30 days=Observação Todas as estatísticas são coletadas apenas a cada 30 dias
-
 ;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
 Donate=Doar
 Currently Installed Version=Versão&nbsp;Instalada&nbsp;Atualmente
 Install The Update=Instalar&nbsp;a&nbsp;Atualização
-
 ; as in you have the latest version already installed
 Latest Version=Última Versão
 Multi Language Support=Suporte para Múltiplos Idiomas
 Support Forum=Fórum de suporte
-
 ; as in more than 100000
 More than %s=Mais de %s
 Remove from Previous Apps=Remover de aplicativos anteriores
@@ -405,17 +402,15 @@ Incompatible=Incompatível
 Blacklisted=Na lista negra
 Template Exists=Modelo existente
 Template already exists in Apps=O modelo já existe no Apps
-
 ; eg: LinuxServer Repository
 %s Repository=Repositório %s
-
 ; eg: Squid's Repository
 %s's Repository=Repositório de %s
 
 Info=Informações
 Attention=Atenção
 Repository=Repositório
-Por que escolhemos=
+Why we picked it=
 Application Spotlight %s=Destaque do aplicativo %s
 Unraid Staff=Colaboradores do Unraid
 
@@ -446,9 +441,8 @@ Checking %s=Verificando %s
 Determine configuration=Determinar a configuração
 Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=Você gostaria que a CA tentasse determinar quaisquer caminhos, portas e variáveis aplicáveis para o modelo? Isso implicará a realização de uma instalação de teste do contêiner. Ele será excluído automaticamente após o processamento. O contêiner não será iniciado.
 An error occurred - Could not determine configuration=Ocorreu um erro - Não foi possível determinar a configuração
-
 ; WebGui
 Click Install to download and install the Community Applications plugin=Clique em **Instalar** para baixar e instalar o plug-in **Aplicativos da comunidade**
 
-; Note: September 16, 2022 - 155 missing translations
-; Note: September 19, 2022 - 0 missing translations
+
+; Note: March 17, 2023 - 6 missing translations
