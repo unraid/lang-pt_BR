@@ -62,5 +62,3 @@ Use cache pool for new filesdirectories=Usar agrupamento de *cache* (para novos 
 User Shares=Compartilhamentos do usuário
 Write=Escrever
 You cannot use the following within share names=Você não pode usar o seguinte em nomes de compartilhamento
-
-; Note: September 19, 2022 - 0 missing translations

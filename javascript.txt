@@ -71,6 +71,3 @@ Container Port=Porta do contêiner
 Container Variable=Variável de contêiner
 Container Label=Rótulo do contêiner
 Container Device=Dispositivo de contêiner
-
-; Note: June 11, 2022 - 13 missing translations
-; Note: September 19, 2022 - 0 missing translations
