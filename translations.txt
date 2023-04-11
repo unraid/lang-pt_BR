@@ -168,6 +168,7 @@ Interface=Interface
 Invalid Username or Password=
 IOMMU=IOMMU
 is available=está disponível
+Job=
 KB=KB
 Keep server details anonymous=
 Kernel=Kernel
@@ -710,7 +711,7 @@ This may indicate a complex network that will not work with this Remote Access s
 We have sent a verifcation email to %s=Enviamos um e-mail de verificação para %s
 You will no longer have access to this server using this url=Você não terá mais acesso a este servidor usando <abbr title="%s" class="italic">esse link</abbr>
 
-; Dynamix File Manager - 2022-05-20
+; Dynamix File Manager - 2023-04-11
 %s year ago=%s ano atrás
 %s years ago=%s anos atrás
 Action=Ação
@@ -742,6 +743,7 @@ DEVICE=DISPOSITIVO
 Download File=Fazer download do arquivo
 Enter a valid target=Insira um destino válido
 Expand=Expandir
+File is removed=
 File Manager=Gerenciador de arquivos
 File name=Nome do arquivo
 file type=tipo de arquivo
@@ -755,7 +757,11 @@ in %s folders and %s files=na pastas %s e no arquivos %s
 Invalid path=Caminho inválido
 Invalid source=Origem inválida
 Invalid target=Alvo inválido
+Job running=
+Jobs=
 Last modified=Última modificação
+Minimize=
+more=
 Move Device=Mover dispositivo
 Move File=Mover arquivo
 Move Folder=Mover pasta
@@ -766,6 +772,7 @@ New file name=Novo nome de arquivo
 New folder name=Novo nome da pasta
 New owner=Novo dono
 New permission=Nova permissão
+No jobs scheduled=
 No results found=Nenhum resultado encontrado
 Not allowed to mix disk and user shares=Não é permitido misturar compartilhamentos de disco e usuário
 Objects to change=Objetos para mudar
@@ -779,12 +786,15 @@ Owner=Proprietário(a)
 Page will be reloaded=A página será recarregada
 Parent Directory=Diretório pai
 Permission=Permissão
+Queue=
 Removing=Removendo
 Rename File=Renomear arquivo
 Rename Folder=Renomear pasta
 rename to=renomear para
 Renaming=Renomeando
 Save=Salvar
+Scheduled Jobs=
+Search pattern=
 Search string=Procurar palavras
 Search=Procurar
 Share name=Nome do Compartilhamento
@@ -823,6 +833,7 @@ This renames the selected source=Isso renomeia a fonte selecionada
 Toggle TimeAge display=Alternar exibição de tempo/idade
 Total occupied space=Espaço ocupado total
 Updating=Atualizando
+Upload Error=
 Use sparse option=
 year=ano
 years=anos
@@ -898,4 +909,4 @@ Your current url %s is not in the list of allowed origins for this server=Your c
 Your server will not be usable until you purchase a Registration key or install a free 30-day Trial key=Seu servidor não poderá ser usado até que você compre uma chave de registro ou instale uma chave de avaliação gratuita de 30 dias
 Your Unraid registration key is ineligible for replacement as it is blacklisted=Sua chave de registro Unraid não é elegível para substituição, pois está na lista negra
 
-; Note: March 17, 2023 - 28 missing translations
+; Note: April 11, 2023 - 39 missing translations
