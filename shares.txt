@@ -72,4 +72,4 @@ User Shares=Compartilhamentos do usuário
 Write=Escrever
 You cannot use the following within share names=Você não pode usar o seguinte em nomes de compartilhamento
 
-; Note: April 18, 2023 - 9 missing translations
+; Note: April 18, 2023 - 8 missing translations
