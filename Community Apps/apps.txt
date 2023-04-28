@@ -146,10 +146,7 @@ This usually means your flash drive is corrupted or has dropped offline The rest
 Fatal Docker Image Error=Erro fatal na imagem do Docker
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=A sua imagem ou pasta docker é só de leitura ou está completamente cheia Os problemas resultarão por causa disso Você deve criar uma nova postagem nos fóruns do Unraid e incluir seus diagnósticos
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=Este modelo estáconfigurado para usar uma rede personalizada Poderáter de ajustar a rede ou o endereço IP etc para corresponder ao seu sistema
-This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=Uma ou mais portas usadas por esta aplicação já estão a ser usadas por outro serviço ou aplicação a correr no seu servidor Teráde ajustar as portas de acolhimento de acordo com o modelo
-Not Enough Memory=
-Community Applications (and Unraid OS) have a minimum required installed memory of 4G CA cannot run without those mimimums being met=
 
 ; CA Sections Keep the length reasonable
 Home=Início
@@ -162,7 +159,6 @@ Recently Added=Adicionado recentemente
 Random Apps=Apps aleatórias
 Top New Installs=Top Novas Instalações
 Top Trending Apps=Principais aplicativos em alta
-Spotlight Apps=
 All Apps=Todas as Apps
 Statistics=Estatísticas
 Credits=Créditos
@@ -311,7 +307,6 @@ Current Version=Versão Atual
 Min OS=Versão Mínima do SO
 Max OS=Versão Máxima do SO
 Total Downloads=Total de Transferências
-Popularity=
 Licence=Licença
 Ranked #%s=Posição #%s
 ; as in Trending up or down arrow
@@ -319,7 +314,7 @@ Trending %s=Tendência %s
 ; as in As of some date
 As of %s=(Há data de %s)
 Play Video=Reproduzir vídeo
-Play Video %s= Reproduzir vídeo %s
+Play Video %s=Reproduzir vídeo %s
 This application is not compatible with your version of Unraid=Esta aplicação não é compatível com a sua versão de Unraid
 Another browser tab or device has updated the displayed templates Some actions are not available=Outro separador ou dispositivo do navegador atualizou os modelos apresentados. Algumas ações não estão disponíveis
 WebUI=Interface web
@@ -410,7 +405,6 @@ Template already exists in Apps=O modelo já existe no Apps
 Info=Informações
 Attention=Atenção
 Repository=Repositório
-Why we picked it=
 Application Spotlight %s=Destaque do aplicativo %s
 Unraid Staff=Colaboradores do Unraid
 
@@ -445,4 +439,15 @@ An error occurred - Could not determine configuration=Ocorreu um erro - Não foi
 Click Install to download and install the Community Applications plugin=Clique em **Instalar** para baixar e instalar o plug-in **Aplicativos da comunidade**
 
 
-; Note: March 17, 2023 - 6 missing translations
+; Note: April 28, 2023 - 11 missing translations
+This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
+Not Enough Memory=
+Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=
+Installation already in progress=
+Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=
+%s is incompatible with your OS version Please update the OS to proceed=
+%s is incompatible with your OS version Either uninstall %s or update the OS=
+Spotlight Apps=
+Featured Applications=
+Popularity=
+Why we picked it=
