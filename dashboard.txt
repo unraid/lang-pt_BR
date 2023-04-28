@@ -68,7 +68,6 @@ No shares present=Não existem pastas compartilhadas
 No virtual machines defined=Nenhuma máquina virtual definida
 Nominal power=Potência nominal
 not received=não recebido
-Only PNG images are allowed=Only PNG images are allowed!
 Outbound=Saída
 Output voltage=Voltagem de saída
 Overall Load=Carga Global
@@ -111,7 +110,7 @@ utilization warning=Aviso de utilização
 View Running Processes=Ver Processos em Execução
 Virtual Machines=Máquinas Virtuais
 
-; Note: April 28, 2023 - 31 missing translations
+; Note: April 29, 2023 - 32 missing translations
 5 m=
 Abort background operation=
 Abort background process=
@@ -129,6 +128,7 @@ Memory Utilization=
 Motherboard Information=
 Notices=
 Notifications=
+Only PNG images are allowed=Only PNG images are allowed!
 Parity Information=
 Pool=
 Power Status=
