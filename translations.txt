@@ -615,7 +615,6 @@ Confirm closure then continue to webGUI=Confirmar e continuar para o *webGUI*
 Confirm Password=Confirmação de senha
 Confirm=Confirmar
 Connect your Unraidnet account to get started=Conecte sua conta Unraid.net para começar
-Connected to Mothership=Conectado à Nave-Mãe
 Continue to Unraid=Continuar para o Unraid
 Continue Trial=Continuar o período de testes
 Copied key url=URL da chave copiada
@@ -839,7 +838,7 @@ Your Unraid registration key is ineligible for replacement as it has been replac
 Your Unraid registration key is ineligible for replacement as it is blacklisted=Sua chave de registro Unraid não é elegível para substituição, pois está na lista negra
 Your USB Flash GUID and other relevant server data will also be sent=O GUID do pendrive e outros dados relevantes do servidor também serão enviados
 
-; Note: April 28, 2023 - 76 missing translations
+; Note: April 28, 2023 - 77 missing translations
 Browser cookie support required for Unraid OS webgui=
 Calculated free space value=
 Invalid Username or Password=
@@ -882,15 +881,16 @@ Confirm Connect plugin removal=
 Connect Error=
 Connect plugin install failed=
 Connect=
+Connected=
 Continue using Connect=
 Customizable Dashboard Tiles=
 Deep Linking=
+Disconnected=
 Download latest backup from Connect Dashboard before signing out=
 Download latest backup from Go to Connect before signing out=
 Download unraid-api Logs=
 Dynamic Remote Access=
 Enhance your experience with Connect=
-Executes `unraid-api start`; no terminal needed=
 For best results, use one of these urls=
 Go to Connect=
 Go to Go to Connect=
