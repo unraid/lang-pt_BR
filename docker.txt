@@ -59,7 +59,6 @@ Icon URL=*URL* do ícone
 Image ID=ID da imagem
 Key=Licença
 Label=Identificação
-Lock sortable items=
 Management=Gestão
 MediaApp=App de mídia
 MediaServer=Servidor de mídia
@@ -120,7 +119,6 @@ The command finished successfully=O comando finalizou com sucesso
 TOTAL DATA PULLED=TOTAL DE DADOS OBTIDOS
 Total size=Tamanho total
 Unknown action=Acão desconhecida
-Unlock sortable items=
 Update All=Atualizar Todos
 update ready=Atualização pronta
 Value=Valor
@@ -134,4 +132,6 @@ Web=*Web*
 WebUI=Interface Web
 Writable=Gravável
 
-; Note: March 17, 2023 - 2 missing translations
+; Note: April 28, 2023 - 2 missing translations
+Lock sortable items=
+Unlock sortable items=
