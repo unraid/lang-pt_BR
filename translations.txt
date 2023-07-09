@@ -699,7 +699,6 @@ Get started by signing in to Unraidnet=Comece entrando em Unraid.net
 Get Started=Iniciar
 Go Back=Voltar
 Go to Connect=
-Go to Go to Connect=
 GUID Error=Erro de GUID
 GUID=GUID
 Have a USB flash device that already has an account associated with it=Tenha um dispositivo flash USB que já tenha uma conta associada a ele
@@ -919,4 +918,4 @@ Your Unraid registration key is ineligible for replacement as it has been replac
 Your Unraid registration key is ineligible for replacement as it is blacklisted=Sua chave de registro Unraid não é elegível para substituição, pois está na lista negra
 Your USB Flash GUID and other relevant server data will also be sent=O GUID do pendrive e outros dados relevantes do servidor também serão enviados
 
-; Note: April 29, 2023 - 99 missing translations
+; Note: July 9, 2023 - 98 missing translations
