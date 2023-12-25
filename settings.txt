@@ -301,6 +301,7 @@ Generate Key=Gerar chave
 Generate Keypair=Gerar par de chaves
 Global Share Settings=Definições Globais de Partilha
 Global SMART Settings=Definições Globais de SMART
+GRUB Configuration=
 Header custom background color=Cor de fundo personalizada do cabeçalho
 Header custom meta text color=Cor do metatexto personalizado do cabeçalho
 Header custom secondary text color=Cor do texto secundário personalizado do cabeçalho
@@ -859,4 +860,4 @@ Transient errors in this log can be ignored unless you are having issues=Erros t
 Unraid API extra origins=Origens extras da API Unraid
 View Flash Backup Error Log=Exibir log de erros de backup em Flash
 
-; Note: December 17, 2023 - 106 missing translations
+; Note: December 25, 2023 - 107 missing translations
