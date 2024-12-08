@@ -324,7 +324,6 @@ Install=Instalar
 Uninstall=Desinstalar
 Project=Projeto
 Read Me First=Leia-me Primeiro
-Install second instance=Instalar segunda instância
 Install Using The Templates Default Tag=Instalar usando a etiqueta predefinida do modelo
 Moderator Comments=Comentários do Moderador:
 Note not all authors keep up to date on change logs=Notar que nem todos os autores mantém os registos de alterações atualizados
@@ -439,7 +438,7 @@ An error occurred - Could not determine configuration=Ocorreu um erro - Não foi
 Click Install to download and install the Community Applications plugin=Clique em **Instalar** para baixar e instalar o plug-in **Aplicativos da comunidade**
 
 
-; Note: February 10, 2024 - 18 missing translations
+; Note: December 8, 2024 - 22 missing translations
 Deprecated OS version No further updates to Community Applications will be issued for this OS version=
 Update Application=
 This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
@@ -449,12 +448,16 @@ Run Anyways=
 Memory Requirements not met Problems may result=
 Installation already in progress=
 Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=
+Clear Flag=
 %s is incompatible with your OS version Please update the OS to proceed=
 %s is incompatible with your OS version Either uninstall %s or update the OS=
 Browser failed to communicate with Unraid Server=
 For unknown reasons, your browser was unable to communicate with Community Applications running on your server=
 Attempt to Fix Via Reload Page=
+External Link=
+Clicking OK will take you to a 3rd party website not associated with Limetech=
 Spotlight Apps=
 Featured Applications=
 Popularity=
+Install another instance=
 Why we picked it=
