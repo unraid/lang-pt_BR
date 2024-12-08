@@ -408,4 +408,4 @@ System in sleep mode=Sistema em modo de suspensão
 This will put the system in sleep mode=Isso colocará o sistema no modo de suspensão
 wiki entry=entrada wiki
 
-; Note: December 8, 2024 - 75 missing translations
+; Note: December 8, 2024 - 74 missing translations
