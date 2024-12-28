@@ -59,6 +59,7 @@ Icon URL=*URL* do ícone
 Image ID=ID da imagem
 Key=Licença
 Label=Identificação
+LAN IPPort=LAN IP:Port
 Management=Gestão
 MediaApp=App de mídia
 MediaServer=Servidor de mídia
@@ -132,7 +133,7 @@ Web=*Web*
 WebUI=Interface Web
 Writable=Gravável
 
-; Note: December 28, 2024 - 24 missing translations
+; Note: December 28, 2024 - 23 missing translations
 3rd Party=
 Addresses=
 available=
@@ -146,7 +147,6 @@ Expired RenewDisable key expiry=Expired! Renew/Disable key expiry!
 Hostname=
 Is Exit Node=
 Key Expiry=
-LAN IPPort=LAN IP:Port
 Lock sortable items=
 Online=
 Please check the logs and refresh the page=

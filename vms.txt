@@ -284,4 +284,4 @@ Windows 82012, newer Linux distros=Windows 8/2012, distribuições Linux mais re
 wsport for virtual console=
 XML View=Visualização XML
 
-; Note: December 28, 2024 - 138 missing translations
+; Note: December 28, 2024 - 134 missing translations
