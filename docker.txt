@@ -132,6 +132,28 @@ Web=*Web*
 WebUI=Interface Web
 Writable=Gravável
 
-; Note: April 28, 2023 - 2 missing translations
+; Note: December 28, 2024 - 24 missing translations
+3rd Party=
+Addresses=
+available=
+Compose=
+Container IP=
+Container not running=
+DERP Relay=
+Error gathering Tailscale information from container=
+Exit Node=
+Expired RenewDisable key expiry=Expired! Renew/Disable key expiry!
+Hostname=
+Is Exit Node=
+Key Expiry=
+LAN IPPort=LAN IP:Port
 Lock sortable items=
+Online=
+Please check the logs and refresh the page=
+Please check the logs=
+Real Hostname=
+Routes=
+Tailscale=
 Unlock sortable items=
+update available=
+URL=
